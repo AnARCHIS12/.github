@@ -17,7 +17,7 @@ Je construis des outils pour la liberté, l'autogestion et la solidarité, loin 
 ## 💻 Projets en cours et passés
 
 ### LiberChat
-- Application de messagerie libre et open source.  
+Application de messagerie libre et open source.  
 Pour l'autogestion, la solidarité et la liberté numérique. Un chat libre, par et pour le prolétariat. »
  Pourquoi un chat anarcho-syndicaliste ?
 « La communication libre est une arme. Organisons-nous, partageons, résistons ! »
