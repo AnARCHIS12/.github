@@ -28,8 +28,8 @@ Code ouvert, transparent, modifiable : fork, partage, autogestion.
 Solidarité et entraide : entraide technique et humaine, support communautaire.
 Hébergement décentralisé possible : pour ne dépendre d’aucun géant du web.
 
-Anticapitaliste · Logiciel libre · Anarcho-syndicaliste  
-- [Voir le projet](https://github.com/AnARCHIS12/liberchat)
+Anticapitaliste · Logiciel libre · Anarchosyndicaliste  
+- [Voir le projet](https://github.com/Liberchat/liberchatserver_ynh)
 
 
 ---
