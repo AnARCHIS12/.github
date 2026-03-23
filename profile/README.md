@@ -14,7 +14,7 @@ Je construis des outils pour la liberté, l'autogestion et la solidarité, loin 
 
 ---
 
-## 💻 Projets en cours et passés
+## 💻 Projets passés
 
 ### LiberChat
 Application de messagerie libre et open source.  
