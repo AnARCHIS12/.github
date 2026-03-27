@@ -1,11 +1,11 @@
-# Salut, je suis AnARCHIS12 ✊
+# Salut, je suis AnARCHIS12 
 
 Je suis **développeur**, **administrateur réseau**, et créateur de projets libres comme **LiberChat**.  
 Je construis des outils pour la liberté, l'autogestion et la solidarité, loin des bureaucraties et des systèmes oppressifs.
 
 ---
 
-## 🔧 Compétences Techniques
+##  Compétences Techniques
 
 - **Administration réseau & systèmes** : Linux, serveur web, gestion des utilisateurs, sécurité, automatisation.  
 - **Développement** : Python, JavaScript, Flutter, HTML/CSS, bases de données , react native.  
@@ -14,7 +14,7 @@ Je construis des outils pour la liberté, l'autogestion et la solidarité, loin 
 
 ---
 
-## 💻 Projets passés
+##  Projets passés
 
 ### LiberChat
 Application de messagerie libre et open source.  
@@ -34,7 +34,7 @@ Anticapitaliste · Logiciel libre · Anarchosyndicaliste
 
 ---
 
-## 🌱 Engagements
+##  Engagements
 
 Je crois en **l’autogestion, la solidarité et la liberté**.  
 Mes projets visent à :
