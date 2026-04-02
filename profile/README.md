@@ -41,7 +41,7 @@ C’est un outil construit pour celles et ceux qui refusent de subir, et qui veu
 Les grandes plateformes contrôlent la parole, exploitent les données et isolent les individus.
 Militant propose autre chose : un espace où la solidarité prime sur le profit, et où chacun peut participer librement.
 
-⚙️ Ce que permet Militant
+ Ce que permet Militant
 
  Discuter librement
 Échange sans algorithmes toxiques ni censure arbitraire.
