@@ -8,7 +8,7 @@ Je construis des outils pour la liberté, l'autogestion et la solidarité, loin 
 ##  Compétences Techniques
 
 - **Administration réseau & systèmes** : Linux, serveur web, gestion des utilisateurs, sécurité, automatisation.  
-- **Développement** : Python, JavaScript, Flutter, HTML/CSS, bases de données , react native.  
+- **Développement** : Php ,Python, JavaScript, Flutter, HTML/CSS, bases de données , react native.  
 - **Projets Open Source** : conception, maintenance, déploiement, documentation.  
 - **Outils** : Git, GitHub, Docker, WebRTC, CI/CD, monitoring.
 
