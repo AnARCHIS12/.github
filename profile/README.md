@@ -69,7 +69,7 @@ Je crois en **l’autogestion, la solidarité et la liberté**.
 Mes projets visent à :
 - Diminuer la dépendance aux grandes plateformes et aux systèmes centralisés.  
 - Favoriser la collaboration ouverte et horizontale.  
-- Diffuser la culture anarchiste et révolutionnaire dans le monde numérique.
+- Diffuser la dévotion révolutionnaire dans le monde numérique.
 
 ---
 
