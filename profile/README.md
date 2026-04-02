@@ -31,8 +31,37 @@ Hébergement décentralisé possible : pour ne dépendre d’aucun géant du web
 Anticapitaliste · Logiciel libre · Anarchosyndicaliste  
 - [Voir le projet](https://github.com/Liberchat/liberchatserver_ynh)
 
+  ##  Projets en cours
+   Réseau social
+Militant, ce n’est pas un simple réseau social.
+C’est un outil construit pour celles et ceux qui refusent de subir, et qui veulent s’organiser, partager et agir ensemble.
 
----
+ Pourquoi Militant ?
+
+Les grandes plateformes contrôlent la parole, exploitent les données et isolent les individus.
+Militant propose autre chose : un espace où la solidarité prime sur le profit, et où chacun peut participer librement.
+
+⚙️ Ce que permet Militant
+
+ Discuter librement
+Échange sans algorithmes toxiques ni censure arbitraire.
+
+ Partager des idées et des luttes
+Publie des textes, des appels, des analyses ou des témoignages.
+
+ S’organiser collectivement
+Crée ou rejoins des groupes pour agir concrètement, localement ou globalement.
+
+ Décider ensemble
+Propose, débat et participe à des prises de décision collectives.
+
+[Voir le projet](https://joinmilitant.revlibertaire.com)
+
+Revsearch 
+Un moteur de recherche auto-hébergé en PHP utilisant DuckDuckGo, avec bloqueur de publicités intégré et protection totale de la vie privée.
+
+[Voir le projet](https://revsearch.revlibertaire.com/)
+
 
 ##  Engagements
 
