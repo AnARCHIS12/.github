@@ -1,6 +1,6 @@
 # Salut, je suis AnARCHIS12 
 
-Je suis **développeur**, **administrateur réseau**, et créateur de projets libres comme **LiberChat**.  
+Je suis **développeur**, **administrateur réseau**, et créateur de projets libres comme **LiberChat**,**Militant**, **Revsearch** .  
 Je construis des outils pour la liberté, l'autogestion et la solidarité, loin des bureaucraties et des systèmes oppressifs.
 
 ---
