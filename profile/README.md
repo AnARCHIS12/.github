@@ -57,6 +57,7 @@ Propose, débat et participe à des prises de décision collectives.
 [Voir le projet](https://joinmilitant.revlibertaire.com)
 
 Revsearch 
+
 Un moteur de recherche auto-hébergé en PHP utilisant DuckDuckGo, avec bloqueur de publicités intégré et protection totale de la vie privée.
 
 [Voir le projet](https://revsearch.revlibertaire.com/)
