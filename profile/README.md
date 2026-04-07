@@ -10,7 +10,7 @@ Je construis des outils pour la liberté, l'autogestion et la solidarité, loin 
 - **Administration réseau & systèmes** : Linux, serveur web, gestion des utilisateurs, sécurité, automatisation.  
 - **Développement** : Php ,Python, JavaScript, Flutter, HTML/CSS, bases de données , react native.  
 - **Projets Open Source** : conception, maintenance, déploiement, documentation.  
-- **Outils** : Git, GitHub, Docker, WebRTC, CI/CD, monitoring.
+- **Outils** : Git, GitHub,Gitlab Docker,  CI/CD, monitoring.
 
 ---
 
@@ -22,7 +22,7 @@ Pour l'autogestion, la solidarité et la liberté numérique. Un chat libre, par
  Pourquoi un chat anarcho-syndicaliste ?
 « La communication libre est une arme. Organisons-nous, partageons, résistons ! »
 
-Aucune hiérarchie, pas de chef : tout le monde a le même pouvoir.
+Aucune hiérarchie, pas de chef.
 Respect de la vie privée : pas de tracking, pas de pub, pas de collecte de données.
 Code ouvert, transparent, modifiable : fork, partage, autogestion.
 Solidarité et entraide : entraide technique et humaine, support communautaire.
