@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:160000,50:8B0000,80:C00000,100:050505&height=260&section=header&text=AnARCHIS12&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SYSTEMS%20%7C%20NETWORKS%20%7C%20OPEN%20SOURCE%20%7C%20SELF-HOSTING&descSize=17&descAlignY=60&descColor=ff4444" width="100%"/>
+<a href="https://asr.revlibertaire.com/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:8B0000,100:C00000&height=230&section=header&text=AnARCHIS12&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=LIBRE%20SOFTWARE%20%7C%20SYSTEMS%20%7C%20NETWORKS&descAlignY=57&descSize=17&animation=twinkling" width="100%"/>
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=FF3030&center=true&vCenter=true&width=900&lines=Building+free+and+open-source+infrastructure;Systems+%26+Network+Administration;Self-hosted+services+%7C+Linux+%7C+Docker;Free+software+%7C+Privacy+%7C+Autonomy;From+idea+to+production+infrastructure" alt="Animated introduction">
+<a href="https://gitlab.com/anarchymedialibertaire">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C00000&center=true&vCenter=true&width=850&lines=SYSTEMS+%2F+NETWORKS+%2F+OPEN+SOURCE;BUILDING+LIBRE+INFRASTRUCTURE;SELF-HOSTING+%2F+LINUX+%2F+DOCKER;AUTONOMOUS+SOFTWARE+%2F+PRIVACY+%2F+FREEDOM" alt="Typing animation"/>
+</a>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/ANARCHIS12-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000">
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=8B0000">
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=8B0000">
-<img src="https://img.shields.io/badge/SELF--HOSTED-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=8B0000">
+<img src="https://komarev.com/ghpvc/?username=AnARCHIS12&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge"/>
 
 </div>
 
@@ -19,540 +20,335 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:8B0000,100:050505&height=3&section=header" width="100%">
-
-### `SYSTEM INITIALIZED`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=%3E+booting+open-source+environment...;%3E+loading+linux...;%3E+loading+network...;%3E+loading+containers...;%3E+loading+self-hosted+infrastructure...;%3E+status%3A+ONLINE" alt="System animation">
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   ANARCHY SYSTEMS / REV LIBERTAIRE                                          │
+│                                                                              │
+│   $ whoami                                                                  │
+│   AnARCHIS12                                                                │
+│                                                                              │
+│   $ systemctl status anarchism                                               │
+│   ● ACTIVE                                                                   │
+│                                                                              │
+│   $ echo $MISSION                                                           │
+│   Libre software / autonomous infrastructure / open networks                │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br>
 
-<table align="center" width="92%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=1800&pause=700&color=FFFFFF&background=050505&center=true&vCenter=true&width=900&height=55&lines=%5B+BOOT+%5D+Loading+open-source+environment...;%5B+OK+%5D+Linux+environment+initialized;%5B+OK+%5D+Network+stack+initialized;%5B+OK+%5D+Self-hosted+services+online;%5B+OK+%5D+Libre+software+environment+ready" alt="System boot animation"/>
+
+</div>
+
+<br>
 
 ## `01 / IDENTITY`
 
-Je suis **AnARCHIS12**, développeur et administrateur systèmes & réseaux.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Je construis des logiciels, des infrastructures et des services libres en privilégiant :
+### AnARCHIS12
 
-* Linux
-* réseaux
-* administration systèmes
-* Docker et conteneurisation
-* auto-hébergement
-* sécurité
-* automatisation
-* outils libres
-* respect de la vie privée
+Développeur, administrateur systèmes et réseaux, passionné par Linux, l'auto-hébergement et le logiciel libre.
 
-Mon objectif n'est pas simplement de créer du logiciel.
-
-**Je construis l'infrastructure qui permet au logiciel d'exister.**
+Je développe et maintiens des outils destinés à créer des infrastructures numériques plus libres, autonomes et accessibles.
 
 </td>
-
 <td width="50%" valign="top">
+
+### DOMAINES
+
+```text
+LINUX
+SYSTEM ADMINISTRATION
+NETWORKING
+DOCKER
+SELF-HOSTING
+WEB INFRASTRUCTURE
+SECURITY
+AUTOMATION
+OPEN SOURCE
+PRIVACY
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C00000,50:8B0000,100:050505&height=3&section=header&animation=twinkling" width="100%"/>
+
+</div>
 
 ## `02 / CURRENT STATE`
 
+<div align="center">
+
 ```text
-┌──────────────────────────────────────┐
-│              ANARCHIS12              │
-├──────────────────────────────────────┤
-│ OS             Linux                 │
-│ Focus          Systems / Networks    │
-│ Containers     Docker                │
-│ Infrastructure Self-hosted           │
-│ Development    PHP / Python / JS     │
-│ Mobile         Flutter               │
-│ Automation     CI/CD                 │
-│ Philosophy     Free Software         │
-├──────────────────────────────────────┤
-│ STATUS         ONLINE                │
-└──────────────────────────────────────┘
+                 ┌───────────────────────────────┐
+                 │        ANARCHY NETWORK        │
+                 └───────────────┬───────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+        ┌───────────┐      ┌───────────┐      ┌───────────┐
+        │   LINUX   │      │  NETWORK  │      │  DOCKER   │
+        └─────┬─────┘      └─────┬─────┘      └─────┬─────┘
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │ SELF-HOSTED       │
+                       │ INFRASTRUCTURE    │
+                       └───────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=400&color=C00000&center=true&vCenter=true&width=850&lines=%5B+OPEN+SOURCE+%5D+%5B+NETWORKS+%5D+%5B+SERVERS+%5D+%5B+AUTONOMY+%5D;--------------------------------------------;BUILDING+INFRASTRUCTURE+FOR+REAL+USE" alt="Animated divider">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2200&pause=600&color=C00000&center=true&vCenter=true&width=850&lines=%3E+Designing+systems;%3E+Maintaining+infrastructure;%3E+Building+free+software;%3E+Automating+everything+possible" alt="Current state"/>
 
 </div>
 
 ---
 
-# `03 / PROJECT MATRIX`
+## `03 / PROJECT MATRIX`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,50:8B0000,100:050505&height=90&text=THE%20OPEN%20SOURCE%20LAB&fontSize=27&fontColor=ffffff&animation=fadeIn" width="100%">
-
-</div>
-
-<br>
-
-<table align="center" width="95%">
-
+<table>
 <tr>
-
-<td align="center" width="33%" valign="top">
-
-<img src="assets/logos/militant.png" width="90">
+<td align="center" width="33%">
 
 ### MILITANT
 
-Plateforme sociale libre et décentralisée.
+<a href="https://gitlab.com/militant1">
+<img src="https://gitlab.com/militant1/militant-flutter/-/raw/main/assets/images/logo.png" width="100" alt="Militant"/>
+</a>
 
-[GitLab](https://gitlab.com/militant1)
+Réseau social libre et décentralisé.
 
 </td>
 
-<td align="center" width="33%" valign="top">
-
-<img src="assets/logos/opencode.png" width="90">
+<td align="center" width="33%">
 
 ### OPENCODE OLLAMA INSTALLER
 
-Installation simplifiée d'OpenCode et Ollama.
+<a href="https://gitlab.com/anarchymedialibertaire/opencode-ollama-installer">
+<img src="https://gitlab.com/anarchymedialibertaire/opencode-ollama-installer/-/raw/main/assets/icon.png" width="100" alt="OpenCode Ollama Installer"/>
+</a>
 
-[GitLab](https://gitlab.com/anarchymedialibertaire/opencode-ollama-installer)
+Installation simplifiée d'OpenCode et Ollama.
 
 </td>
 
-<td align="center" width="33%" valign="top">
-
-<img src="assets/logos/revsearch.png" width="90">
+<td align="center" width="33%">
 
 ### REVSEARCH
 
-Moteur de recherche orienté confidentialité.
+<a href="https://gitlab.com/anarchymedialibertaire-group/revsearch">
+<img src="https://gitlab.com/anarchymedialibertaire-group/revsearch/-/raw/main/assets/logo.png" width="100" alt="RevSearch"/>
+</a>
 
-[GitLab](https://gitlab.com/anarchymedialibertaire-group/revsearch)
+Moteur de recherche libre et respectueux de la vie privée.
 
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center" valign="top">
-
-<img src="assets/logos/anarcosyndicalismebook.jpeg" width="90">
+<td align="center">
 
 ### ANARCOSYNDICALISMEBOOK
 
-Projet de documentation et de lecture libre.
+<a href="https://codeberg.org/Anarcosyndicalismebook">
+<img src="https://codeberg.org/Anarcosyndicalismebook/anarcosyndicalismebook/raw/branch/main/assets/logo.png" width="100" alt="AnarcoSyndicalismeBOOK"/>
+</a>
 
-[Codeberg](https://codeberg.org/Anarcosyndicalismebook)
+Bibliothèque numérique anarchosyndicaliste.
 
 </td>
 
-<td align="center" valign="top">
-
-<img src="assets/logos/anartech.jpg" width="90">
+<td align="center">
 
 ### ANARTECH
 
-Projet orienté technologie et informatique libre.
+<a href="https://gitlab.com/anartech/anartech">
+<img src="https://gitlab.com/anartech/anartech/-/raw/main/assets/logo.png" width="100" alt="AnarTech"/>
+</a>
 
-[GitLab](https://gitlab.com/anartech/anartech)
+Projet libre autour des technologies.
 
 </td>
 
-<td align="center" valign="top">
-
-<img src="assets/logos/libercompress.jpg" width="90">
+<td align="center">
 
 ### LIBERCOMPRESS
 
-Outil libre autour de la compression de fichiers.
+<a href="https://gitlab.com/anarchymedialibertaire/libercompress">
+<img src="https://gitlab.com/anarchymedialibertaire/libercompress/-/raw/main/assets/logo.png" width="100" alt="Libercompress"/>
+</a>
 
-[GitLab](https://gitlab.com/anarchymedialibertaire/libercompress)
+Outil libre de compression.
 
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center" valign="top">
-
-<img src="assets/logos/codestral-icon.png" width="90">
+<td align="center">
 
 ### CODESTRAL-AGENT
 
-Expérimentation autour des agents de développement.
+<a href="https://github.com/AnARCHIS12/Codestral-Agent">
+<img src="https://raw.githubusercontent.com/AnARCHIS12/Codestral-Agent/main/assets/icon.png" width="100" alt="Codestral-Agent"/>
+</a>
 
-[GitHub](https://github.com/AnARCHIS12/Codestral-Agent)
+Agent IA orienté développement.
 
 </td>
 
-<td align="center" valign="top">
-
-<img src="assets/logos/logo-red-black.png" width="90">
+<td align="center">
 
 ### CKEKSAFE
 
-Projet libre de sécurité.
+<a href="https://github.com/AnARCHIS12/cKEKSAFE">
+<img src="https://raw.githubusercontent.com/AnARCHIS12/cKEKSAFE/main/assets/logo.png" width="100" alt="cKEKSAFE"/>
+</a>
 
-[GitHub](https://github.com/AnARCHIS12/cKEKSAFE)
+Projet de sécurité libre.
 
 </td>
 
-<td align="center" valign="top">
-
-<img src="assets/logos/safelink-logo.svg" width="90">
+<td align="center">
 
 ### SAFELINK
 
-Projet libre autour de la sécurité des liens.
+<a href="https://github.com/AnARCHIS12/Safelink">
+<img src="https://raw.githubusercontent.com/AnARCHIS12/Safelink/main/assets/logo.svg" width="100" alt="SafeLink"/>
+</a>
 
-[GitHub](https://github.com/AnARCHIS12/Safelink)
+Protection et analyse des liens.
 
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center" valign="top">
-
-<img src="assets/logos/dockan-logo-large.svg" width="90">
+<td align="center">
 
 ### DOCKAN
 
-Conteneurisation libre.
+<a href="https://github.com/Dockan-Conteneurisation-libre">
+<img src="https://raw.githubusercontent.com/Dockan-Conteneurisation-libre/Dockan/main/assets/logo.svg" width="100" alt="Dockan"/>
+</a>
 
-[GitHub](https://github.com/Dockan-Conteneurisation-libre)
+Conteneurisation libre.
 
 </td>
 
-<td align="center" valign="top">
-
-<img src="assets/logos/217358982.png" width="90">
+<td align="center">
 
 ### LIBERCHAT
 
-Projet de communication libre.
+<a href="https://github.com/Liberchat">
+<img src="https://raw.githubusercontent.com/Liberchat/Liberchat/main/assets/logo.png" width="100" alt="Liberchat"/>
+</a>
 
-[GitHub](https://github.com/Liberchat)
-
-</td>
-
-<td align="center" valign="top">
-
-<img src="assets/logos/youtube-logo.svg" width="90">
-
-### YOUTUBE DOWNLOADER
-
-Outil libre de téléchargement vidéo.
-
-[GitHub](https://github.com/AnARCHIS12/YouTube-Downloader)
+Écosystème de communication libre.
 
 </td>
 
+<td align="center">
+
+### YOUTUBE DOWNLOAD
+
+<a href="https://github.com/AnARCHIS12/YouTube-Downloader">
+<img src="https://raw.githubusercontent.com/AnARCHIS12/YouTube-Downloader/main/assets/logo.svg" width="100" alt="YouTube Download"/>
+</a>
+
+Téléchargement vidéo libre.
+
+</td>
 </tr>
 
 <tr>
-
-<td align="center" valign="top">
-
-<img src="assets/logos/gitliberty.png" width="90">
+<td align="center">
 
 ### GITLIBERTY
 
-Infrastructure Git auto-hébergée.
+<a href="https://gitliberty.unionlibertaireanarchiste.org/anar/Gitliberty">
+<img src="https://gitliberty.unionlibertaireanarchiste.org/anar/Gitliberty/raw/branch/main/public/logo.png" width="100" alt="Gitliberty"/>
+</a>
 
-[Gitliberty](https://gitliberty.unionlibertaireanarchiste.org/anar/Gitliberty)
+Forge Git libre.
 
 </td>
 
-<td align="center" valign="top">
-
-<img src="assets/logos/autoserver-config.svg" width="90">
+<td align="center">
 
 ### AUTOSERVER-CONFIG
 
-Automatisation et configuration de serveurs.
+<a href="https://gitliberty.unionlibertaireanarchiste.org/anar/Autoserver-config">
+<img src="https://gitliberty.unionlibertaireanarchiste.org/anar/Autoserver-config/raw/branch/main/assets/logo.svg" width="100" alt="AutoServer-Config"/>
+</a>
 
-[Gitliberty](https://gitliberty.unionlibertaireanarchiste.org/anar/Autoserver-config)
+Automatisation de configuration serveur.
 
 </td>
 
-<td align="center" valign="top">
-
-<img src="assets/logos/rss-factory.png" width="90">
+<td align="center">
 
 ### RSS FACTORY
 
+<a href="https://gitlab.com/anarchymedialibertaire-group/rss-factory">
+<img src="https://gitlab.com/anarchymedialibertaire-group/rss-factory/-/raw/main/assets/logo.png" width="100" alt="RSS Factory"/>
+</a>
+
 Outils autour des flux RSS.
 
-[GitLab](https://gitlab.com/anarchymedialibertaire-group/rss-factory)
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=500&color=FF3030&center=true&vCenter=true&width=900&lines=15+PROJECTS;MULTIPLE+FORGES;ONE+OPEN+SOURCE+ECOSYSTEM;GITHUB+%7C+GITLAB+%7C+CODEBERG+%7C+GITLIBERTY" alt="Project matrix animation">
-
-</div>
-
----
-
-# `04 / ORGANIZATIONS`
-
-<table align="center" width="90%">
-<tr>
-
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/GITLAB-ANARCHYMEDIA%20LIBERTAIRE-000000?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=C00000">
-
-<br><br>
-
-Infrastructure et projets logiciels libres.
-
-<br><br>
-
-[anarchymedialibertaire](https://gitlab.com/anarchymedialibertaire)
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/CODEBERG-ASR%202026-000000?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=C00000">
-
-<br><br>
-
-Espace ASR sur Codeberg.
-
-<br><br>
-
-[ASR2026](https://codeberg.org/ASR2026)
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:C00000,50:FF2020,100:000000&height=80&text=SYSTEMS%20%2F%2F%20NETWORKS%20%2F%2F%20OPEN%20SOURCE&fontSize=23&fontColor=ffffff&animation=twinkling" width="100%">
-
-</div>
-
-# `05 / STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,debian,fedora,ubuntu,docker,git,github,gitlab,python,php,js,html,css,flutter,androidstudio,mysql,postgres,nginx,apache,bash&perline=10" />
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td>
-
-```text
-SYSTEMS
-Linux
-Debian
-Fedora
-Ubuntu
-Virtualisation
-Docker
-```
-
-</td>
-<td>
-
-```text
-NETWORK
-TCP/IP
-DNS
-HTTP / HTTPS
-Reverse Proxy
-VPN
-Firewall
-Monitoring
-```
-
-</td>
-<td>
-
-```text
-DEVELOPMENT
-PHP
-Python
-JavaScript
-HTML
-CSS
-Flutter
-SQL
-Bash
-```
-
-</td>
-<td>
-
-```text
-INFRASTRUCTURE
-Docker Compose
-Git
-CI/CD
-Self-hosting
-Monitoring
-Automation
-Security
-```
-
 </td>
 </tr>
 </table>
 
----
-
-# `06 / INFRASTRUCTURE`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=450&color=FF3030&center=true&vCenter=true&width=900&lines=%24+docker+compose+up+-d;%24+systemctl+status+docker;%24+ip+a;%24+ss+-tulpn;%24+journalctl+-f;%24+infrastructure+%3E%3E+ONLINE" alt="Terminal animation">
-
 </div>
 
 <br>
 
-```text
-                         INTERNET
-                            |
-                            v
-                  +-------------------+
-                  |   REVERSE PROXY   |
-                  |   TLS / ROUTING   |
-                  +---------+---------+
-                            |
-              +-------------+-------------+
-              |             |             |
-              v             v             v
-          WEB APPS       SERVICES      APIs
-              |             |             |
-              +-------------+-------------+
-                            |
-                            v
-                   +----------------+
-                   |    DOCKER      |
-                   |  CONTAINERS    |
-                   +--------+-------+
-                            |
-             +--------------+--------------+
-             |              |             |
-             v              v             v
-          DATABASES      STORAGE       MONITORING
-```
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=350&color=FFFFFF&center=true&vCenter=true&width=850&lines=SERVERS+RUNNING;CONTAINERS+RUNNING;NETWORK+CONNECTED;SERVICES+AVAILABLE;INFRASTRUCTURE+UNDER+CONTROL" alt="Infrastructure animation">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1800&pause=500&color=8B0000&center=true&vCenter=true&width=800&lines=15+PROJECTS;%5B+OPEN+SOURCE+%5D;%5B+SELF-HOSTED+%5D;%5B+LIBRE+INFRASTRUCTURE+%5D;%5B+ACTIVE+DEVELOPMENT+%5D" alt="Project status"/>
 
 </div>
 
 ---
 
-# `07 / OPEN SOURCE NETWORK`
+## `04 / ORGANIZATIONS`
 
 <div align="center">
 
-```text
-GITHUB
-   |
-   +------ GITLAB
-   |
-   +------ CODEBERG
-   |
-   +------ GITLIBERTY
-   |
-   +------ SELF-HOSTED INFRASTRUCTURE
-   |
-   +------ FREE SOFTWARE
-```
+<a href="https://gitlab.com/anarchymedialibertaire">
+<img src="https://img.shields.io/badge/GITLAB-anarchymedialibertaire-C00000?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 
-</div>
+ 
 
-<br>
-
-<table align="center" width="90%">
-<tr>
-<td align="center">
-
-### GITHUB
-
-Development, experiments and public projects.
-
-</td>
-<td align="center">
-
-### GITLAB
-
-Software and collaborative infrastructure.
-
-</td>
-<td align="center">
-
-### CODEBERG
-
-Free and open-source forge.
-
-</td>
-<td align="center">
-
-### GITLIBERTY
-
-Self-hosted Git infrastructure.
-
-</td>
-</tr>
-</table>
-
----
-
-# `08 / LIVE ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnARCHIS12&bg_color=050505&color=ffffff&line=C00000&point=ff3030&area_color=8B0000&area=true&hide_border=true&custom_title=ANARCHIS12%20%2F%2F%20ACTIVITY" width="95%">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AnARCHIS12&theme=highcontrast&hide_border=true&background=050505&ring=C00000&fire=FF3030&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" width="80%">
-
-</div>
-
----
-
-# `09 / CONTRIBUTION ENGINE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnARCHIS12/AnARCHIS12/output/github-snake-dark.svg" width="95%" alt="Contribution animation">
+<a href="https://codeberg.org/ASR2026">
+<img src="https://img.shields.io/badge/CODEBERG-ASR2026-050505?style=for-the-badge&logo=codeberg&logoColor=white"/>
+</a>
 
 </div>
 
@@ -560,99 +356,211 @@ Self-hosted Git infrastructure.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=450&color=C00000&center=true&vCenter=true&width=800&lines=EVERY+COMMIT+LEAVES+A+TRACE;EVERY+PROJECT+BUILDS+THE+NEXT;KEEP+BUILDING;KEEP+SHARING;KEEP+FREEING" alt="Contribution animation">
+```text
+GITLAB
+  └── anarchymedialibertaire
+       ├── infrastructure
+       ├── applications
+       ├── privacy
+       └── libre software
+
+CODEBERG
+  └── ASR2026
+       └── projects / documentation / collaboration
+```
 
 </div>
 
 ---
 
-# `10 / CURRENTLY BUILDING`
+## `05 / TECHNOLOGY STACK`
 
 <div align="center">
 
-<table width="90%">
-<tr>
+<img src="https://skillicons.dev/icons?i=linux,debian,fedora,ubuntu,docker,git,github,gitlab,python,php,js,html,css,flutter,react,mysql,postgres,nginx,bash&theme=dark" />
 
-<td width="33%" align="center">
+</div>
 
-```text
-NETWORK
-SYSTEMS
-SERVER
-```
+<br>
 
-Administration et infrastructure.
+<div align="center">
 
-</td>
-
-<td width="33%" align="center">
-
-```text
-OPEN
-SOURCE
-SOFTWARE
-```
-
-Logiciels et outils libres.
-
-</td>
-
-<td width="33%" align="center">
-
-```text
-SELF
-HOSTED
-SERVICES
-```
-
-Services autonomes.
-
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2000&pause=500&color=C00000&center=true&vCenter=true&width=850&lines=LINUX+%2F+DOCKER+%2F+NETWORKING;PHP+%2F+PYTHON+%2F+JAVASCRIPT+%2F+FLUTTER;GIT+%2F+GITLAB+%2F+GITHUB+%2F+CODEBERG;DATABASES+%2F+WEB+SERVERS+%2F+AUTOMATION" alt="Technology stack"/>
 
 </div>
 
 ---
 
+## `06 / INFRASTRUCTURE`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,30:8B0000,50:FF2020,70:8B0000,100:050505&height=4" width="100%">
+```text
+                              INTERNET
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                 CLOUDFLARE                 DOMAINS
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  │
+                           ┌──────▼──────┐
+                           │   SERVERS   │
+                           └──────┬──────┘
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+          DOCKER               LINUX              NETWORK
+              │                   │                   │
+      ┌───────┼───────┐           │           ┌───────┴───────┐
+      │       │       │           │           │               │
+   SERVICES  APPS   TOOLS      SECURITY      ROUTING       MONITORING
+      │       │       │           │           │               │
+      └───────┴───────┴───────────┴───────────┴───────────────┘
+                                  │
+                           LIBRE INFRASTRUCTURE
+```
+
+</div>
+
+---
+
+## `07 / ACTIVITY`
+
+<div align="center">
+
+<a href="https://github.com/AnARCHIS12">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnARCHIS12&bg_color=050505&color=ffffff&line=C00000&point=ff3030&area_color=8B0000&area=true&hide_border=true&custom_title=ANARCHIS12%20ACTIVITY" width="100%" alt="GitHub Activity Graph"/>
+
+</a>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=700&color=FF3030&center=true&vCenter=true&width=900&lines=NO+CLOSED+BOX;NO+LOCKED+INFRASTRUCTURE;NO+DEPENDENCY+WHEN+IT+CAN+BE+AVOIDED;BUILD+IT;+HOST+IT;+SHARE+IT" alt="Final animation">
+<div align="center">
 
-<br><br>
+<img src="https://streak-stats.demolab.com?user=AnARCHIS12&theme=dark&background=050505&border=8B0000&ring=C00000&fire=FF3030&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" width="70%" alt="GitHub streak"/>
 
-<table align="center">
-<tr>
-<td align="center">
+</div>
 
-[GitHub](https://github.com/AnARCHIS12)
+---
 
-</td>
-<td align="center">
+## `08 / CONTRIBUTION MATRIX`
 
-[GitLab](https://gitlab.com/anarchymedialibertaire)
+<div align="center">
 
-</td>
-<td align="center">
+<a href="https://github.com/AnARCHIS12">
 
-[Codeberg](https://codeberg.org/ASR2026)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
-</td>
-<td align="center">
+</a>
 
-[ASR](https://asr.revlibertaire.com/)
+</div>
 
-</td>
-</tr>
-</table>
+---
+
+## `09 / OPEN SOURCE NETWORK`
+
+<div align="center">
+
+```text
+                         ┌──────────────────┐
+                         │    AnARCHIS12    │
+                         └────────┬─────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+       ┌───────────┐       ┌─────────────┐      ┌───────────┐
+       │  GitHub   │       │   GitLab    │      │  Codeberg │
+       └─────┬─────┘       └──────┬──────┘      └─────┬─────┘
+             │                    │                    │
+             │                    │                    │
+      AnARCHIS12             anarchymedialibertaire   ASR2026
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                                  ▼
+                         LIBRE SOFTWARE
+```
+
+</div>
+
+---
+
+## `10 / CURRENTLY BUILDING`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=C00000&center=true&vCenter=true&width=900&height=80&lines=%5B+BUILD+%5D+Libre+infrastructure;%5B+BUILD+%5D+Self-hosted+services;%5B+BUILD+%5D+Open-source+applications;%5B+BUILD+%5D+Systems+%26+networking;%5B+BUILD+%5D+Autonomous+digital+tools" alt="Currently building"/>
+
+</div>
+
+---
+
+## `11 / PRINCIPLES`
+
+<div align="center">
+
+```text
+OPEN SOURCE
+     │
+     ├── transparency
+     ├── autonomy
+     ├── privacy
+     ├── interoperability
+     └── accessibility
+
+SELF-HOSTING
+     │
+     ├── control
+     ├── independence
+     ├── resilience
+     └── decentralization
+```
+
+</div>
+
+---
+
+## `12 / CONTACT & PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/AnARCHIS12">
+<img src="https://img.shields.io/badge/GITHUB-AnARCHIS12-050505?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://gitlab.com/anarchymedialibertaire">
+<img src="https://img.shields.io/badge/GITLAB-anarchymedialibertaire-C00000?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+<a href="https://codeberg.org/ASR2026">
+<img src="https://img.shields.io/badge/CODEBERG-ASR2026-050505?style=for-the-badge&logo=codeberg&logoColor=white"/>
+</a>
+
+<a href="https://asr.revlibertaire.com/">
+<img src="https://img.shields.io/badge/ASR-PORTFOLIO-8B0000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:160000,50:8B0000,80:C00000,100:050505&height=180&section=footer&animation=twinkling" width="100%">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2200&pause=800&color=FFFFFF&background=C00000&center=true&vCenter=true&width=850&height=50&lines=BUILD+FREE+SOFTWARE;RUN+YOUR+OWN+INFRASTRUCTURE;KEEP+CONTROL+OF+YOUR+DATA" alt="Final message"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://asr.revlibertaire.com/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:C00000&height=150&section=footer&animation=twinkling" width="100%"/>
+</a>
 
 </div>
