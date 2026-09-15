@@ -582,8 +582,8 @@ GITLIBERTY
                                             │
                              ┌──────────────┴──────────────┐
                              │                             │
-                        CLOUDFLARE                      DOMAINS
-                      [SSL / Edge]                  [DNS Privé]
+                          PANGOLIN                       DOMAINS
+                      [Reverse Proxy]               [DNS Privé]
                              │                             │
                              └──────────────┬──────────────┘
                                             │
