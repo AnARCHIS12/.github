@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=FFFFFF&background=0a0a0c&center=true&vCenter=true&width=900&height=50&lines=%5B+BOOT+%5D+Chargement+de+l%27environnement+open-source...;%5B+OK+%5D+Noyau+Linux+durci+%26+optimis%C3%A9;%5B+OK+%5D+Services+auto-h%C3%A9berg%C3%A9s+connect%C3%A9s;%5B+OK+%5D+15+projets+libres+d%C3%A9ploy%C3%A9s+%26+accessibles" alt="System boot animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=FFFFFF&background=0a0a0c&center=true&vCenter=true&width=900&height=50&lines=%5B+BOOT+%5D+Chargement+de+l%27environnement+open-source...;%5B+OK+%5D+Noyau+Linux+durci+%26+optimis%C3%A9;%5B+OK+%5D+Services+auto-h%C3%A9berg%C3%A9s+connect%C3%A9s;%5B+OK+%5D+17+projets+libres+d%C3%A9ploy%C3%A9s+%26+accessibles" alt="System boot animation"/>
 
 </div>
 
@@ -67,7 +67,7 @@
 
 Développeur et administrateur systèmes & réseaux, engagé dans la promotion du **logiciel libre**, de l'**auto-hébergement** et de l'**émancipation numérique**.
 
-Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applications mobiles et agents d'intelligence artificielle locaux, avec un leitmotiv constant : **indépendance technologique**, **vie privée absolue** et **souveraineté des données**.
+Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applications mobiles natives, outils réseau LoRa maillés et agents d'intelligence artificielle locaux, avec un leitmotiv constant : **indépendance technologique**, **vie privée absolue** et **souveraineté des données**.
 
 <br>
 
@@ -79,10 +79,10 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 ### CŒUR DE COMPÉTENCES
 
 ```text
-▸ SYSTÈMES      Linux (Debian / Fedora / Ubuntu), Hardening, BBR
+▸ SYSTÈMES      Linux (Debian / Ubuntu), Hardening, BBR
 ▸ CONTENEURS    Docker, Docker Compose, Podman, KVM
-▸ RÉSEAUX       Routage, Nginx, DNS, Cloudflare, Sécurité
-▸ CODE          Python, PHP, TypeScript, Bash, Flutter/Dart
+▸ RÉSEAUX       LoRa / Meshtastic, WireGuard, Nginx, Cloudflare
+▸ CODE          Kotlin (Android), Python, PHP, TypeScript, Bash, Flutter
 ▸ IA LOCALE     Ollama, Modèles Locaux (Mistral, Codestral)
 ▸ PHILOSOPHIE   Libre, Décentralisé, Auto-géré, Anti-surveillance
 ```
@@ -114,7 +114,7 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
              ▼                               ▼                               ▼
        ┌───────────┐                   ┌───────────┐                   ┌───────────┐
        │   LINUX   │                   │  NETWORK  │                   │  DOCKER   │
-       │ Hardened  │                   │ WireGuard │                   │  Podman   │
+       │ Hardened  │                   │ LoRa/Mesh │                   │  Podman   │
        └─────┬─────┘                   └─────┬─────┘                   └─────┬─────┘
              │                               │                               │
              └───────────────────────────────┼───────────────────────────────┘
@@ -122,8 +122,8 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
                                              ▼
                        ┌───────────────────────────────────────────┐
                        │     INFRASTRUCTURE AUTO-HÉBERGÉE          │
-                       │  • Forges Libres  • Services Décentralisés│
-                       │  • IA Hors-Ligne  • Réseaux Autogérés     │
+                       │  • Homelab Mobile • Réseaux Maillés LoRa  │
+                       │  • IA Hors-Ligne  • Services Décentralisés│
                        └───────────────────────────────────────────┘
 ```
 
@@ -142,7 +142,7 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 ## `03 / ÉCOSYSTÈME & CRÉATIONS LIBRES`
 
 <p align="center">
-  <em>Une suite de 15 logiciels, outils et infrastructures conçus pour un web émancipateur et respectueux de ses utilisateurs.</em>
+  <em>Une suite de 17 logiciels, outils et infrastructures conçus pour un web souverain et respectueux de ses utilisateurs.</em>
 </p>
 
 ### 🌐 1. RÉSEAUX, COMMUNICATION & SAVOIR
@@ -171,18 +171,18 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 <td align="center" width="33%" valign="top">
 
 <br>
-<a href="https://github.com/Liberchat">
-<img src="https://raw.githubusercontent.com/AnARCHIS12/.github/main/assets/logos/liberchat.svg" width="80" height="80" alt="Liberchat"/>
+<a href="https://github.com/AnARCHIS12/meshtastic-drivers">
+<img src="https://raw.githubusercontent.com/AnARCHIS12/.github/main/assets/logos/meshtastic.svg" width="80" height="80" alt="Meshtastic Drivers"/>
 </a>
 
-### LIBERCHAT
-**Messagerie Décentralisée**
-<br><sub>Pour l'autogestion, la solidarité et la liberté : chat chiffré, sans surveillance ni serveurs centraux.</sub>
+### MESHTASTIC DRIVERS
+**Réseau Radio Maillé LoRa**
+<br><sub>Installation et vérification automatique des pilotes USB série pour nœuds Meshtastic ESP32 hors-Internet.</sub>
 
 <br>
-<a href="https://github.com/Liberchat"><img src="https://img.shields.io/badge/GitHub-Dépôt-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Chiffré-E2EE-10b981?style=flat-square" alt="E2EE"/>
-<img src="https://img.shields.io/badge/P2P-Chat-cc0000?style=flat-square" alt="P2P"/>
+<a href="https://github.com/AnARCHIS12/meshtastic-drivers"><img src="https://img.shields.io/badge/GitHub-Dépôt-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/LoRa-Mesh_Radio-0ea5e9?style=flat-square" alt="LoRa"/>
+<img src="https://img.shields.io/badge/ESP32-Hardware-10b981?style=flat-square" alt="ESP32"/>
 <br><br>
 
 </td>
@@ -378,11 +378,31 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 
 ---
 
-### ⚙️ 4. INFRASTRUCTURE, DURCISSEMENT & FLUX WEB
+### ⚙️ 4. INFRASTRUCTURE, GESTION SERVEURS & FLUX WEB
 
 <table>
+<!-- Row 1 -->
 <tr>
-<td align="center" width="25%" valign="top">
+<td align="center" width="33%" valign="top">
+
+<br>
+<a href="https://github.com/AnARCHIS12/homelab">
+<img src="https://raw.githubusercontent.com/AnARCHIS12/.github/main/assets/logos/homelab.png" width="76" height="76" style="border-radius: 14px;" alt="Homelab"/>
+</a>
+
+### HOMELAB
+**Gestion & Monitoring Mobile**
+<br><sub>Application Android native (Kotlin) pour superviser et administrer ses serveurs et services auto-hébergés.</sub>
+
+<br>
+<a href="https://github.com/AnARCHIS12/homelab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Homelab-Self--Hosted-059669?style=flat-square" alt="Self-Hosted"/>
+<br><br>
+
+</td>
+
+<td align="center" width="33%" valign="top">
 
 <br>
 <a href="https://gitliberty.unionlibertaireanarchiste.org/anar/Autoserver-config">
@@ -391,17 +411,38 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 
 ### AUTOSERVER-CONFIG
 **Durcissement Serveur**
-<br><sub>Script d'automatisation modulaire pour Linux : hardening, BBR, Docker, Podman et KVM.</sub>
+<br><sub>Script d'automatisation modulaire pour Linux : hardening noyau, BBR, Docker, Podman et KVM.</sub>
 
 <br>
 <a href="https://gitliberty.unionlibertaireanarchiste.org/anar/Autoserver-config"><img src="https://img.shields.io/badge/Gitliberty-111113?style=flat-square&logo=gnubash&logoColor=white" alt="Gitliberty"/></a>
-<br>
 <img src="https://img.shields.io/badge/Linux-Hardening-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 <br><br>
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="center" width="33%" valign="top">
+
+<br>
+<a href="https://github.com/AnARCHIS12/TikLinks">
+<img src="https://raw.githubusercontent.com/AnARCHIS12/.github/main/assets/logos/tiklinks.png" width="76" height="76" style="border-radius: 14px;" alt="TikLinks"/>
+</a>
+
+### TIKLINKS
+**Bio-Link Libre & Léger**
+<br><sub>Alternative libre à Linktree optimisée pour TikTok/mobile, en PHP natif et SQLite, zéro dépendance.</sub>
+
+<br>
+<a href="https://github.com/AnARCHIS12/TikLinks"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/PHP-SQLite-777BB4?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/TikTok-Bio-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
+<br><br>
+
+</td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
+<td align="center" width="33%" valign="top">
 
 <br>
 <a href="https://github.com/Dockan-Conteneurisation-libre">
@@ -414,13 +455,12 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 
 <br>
 <a href="https://github.com/Dockan-Conteneurisation-libre"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<br>
 <img src="https://img.shields.io/badge/Containers-DKN-1a5e3a?style=flat-square" alt="Containers"/>
 <br><br>
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="center" width="33%" valign="top">
 
 <br>
 <a href="https://gitlab.com/anarchymedialibertaire-group/revsearch">
@@ -429,17 +469,16 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 
 ### REVSEARCH
 **Moteur de Recherche Privé**
-<br><sub>Recherche en ligne sans traçage utilisateur, sans revente de profil publicitaire.</sub>
+<br><sub>Recherche en ligne sans traçage utilisateur, sans profil publicitaire ni conservation de logs.</sub>
 
 <br>
 <a href="https://gitlab.com/anarchymedialibertaire-group/revsearch"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-<br>
 <img src="https://img.shields.io/badge/Privacy-Zero_Logs-1e40af?style=flat-square" alt="Privacy"/>
 <br><br>
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="center" width="33%" valign="top">
 
 <br>
 <a href="https://gitlab.com/anarchymedialibertaire-group/rss-factory">
@@ -448,11 +487,10 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 
 ### RSS FACTORY
 **Générateur de Flux RSS**
-<br><sub>Création de flux RSS/Atom pour sites dynamiques sans flux natif, avec support JavaScript.</sub>
+<br><sub>Création de flux RSS/Atom pour sites dynamiques sans flux natif, avec extraction automatique.</sub>
 
 <br>
 <a href="https://gitlab.com/anarchymedialibertaire-group/rss-factory"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-<br>
 <img src="https://img.shields.io/badge/RSS-Syndication-FFA500?style=flat-square&logo=rss&logoColor=white" alt="RSS"/>
 <br><br>
 
@@ -464,7 +502,7 @@ Je conçois des écosystèmes complets : du serveur Linux durci jusqu'aux applic
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1800&pause=500&color=8B0000&center=true&vCenter=true&width=850&lines=15+PROJETS+ACTIFS+%E2%80%A2+100%25+OPEN-SOURCE;AUTO-HEBERGEMENT+%E2%80%A2+INFRASTRUCTURE+SOUVERAINE;PROTECTION+DE+LA+VIE+PRIVEE+%E2%80%A2+LOGICIELS+LIBRES" alt="Project status"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1800&pause=500&color=8B0000&center=true&vCenter=true&width=850&lines=17+PROJETS+ACTIFS+%E2%80%A2+100%25+OPEN-SOURCE;AUTO-HEBERGEMENT+%E2%80%A2+INFRASTRUCTURE+SOUVERAINE;PROTECTION+DE+LA+VIE+PRIVEE+%E2%80%A2+LOGICIELS+LIBRES" alt="Project status"/>
 
 </div>
 
@@ -521,7 +559,7 @@ GITLIBERTY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,debian,fedora,ubuntu,docker,git,github,gitlab,python,php,ts,js,html,css,flutter,react,mysql,postgres,nginx,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,github,gitlab,python,php,ts,js,html,css,flutter,react,mysql,postgres,nginx,bash&theme=dark" />
 
 </div>
 
@@ -557,12 +595,12 @@ GITLIBERTY
                         ┌───────────────────┼───────────────────┐
                         │                   │                   │
                      DOCKER               LINUX              NETWORK
-                    Containers          Kernel Opti          Routing
+                    Containers          Kernel Opti       LoRa / WireGuard
                         │                   │                   │
                 ┌───────┼───────┐           │           ┌───────┴───────┐
                 │       │       │           │           │               │
              SERVICES  APPS   TOOLS      SECURITY      FIREWALL     MONITORING
-                │       │       │        (Fail2Ban)   (iptables)    (Netdata)
+                │       │       │        (Fail2Ban)   (iptables)    (Homelab)
                 └───────┴───────┴───────────┴───────────┴───────────────┘
                                             │
                                   INFRASTRUCTURE LIBRE

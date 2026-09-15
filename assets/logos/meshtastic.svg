@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Meshtastic Drivers Helper logo</title>
+  <desc id="desc">A USB plug, mesh nodes, and radio waves inside a rounded shield.</desc>
+  <defs>
+    <linearGradient id="shield" x1="48" y1="28" x2="208" y2="228" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#15395B"/>
+      <stop offset="1" stop-color="#0B1F33"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="74" y1="60" x2="188" y2="192" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#20D6C7"/>
+      <stop offset="1" stop-color="#75D66B"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="54" fill="#F4F8FB"/>
+  <path d="M128 24 205 58v70c0 50-31 82-77 104-46-22-77-54-77-104V58l77-34Z" fill="url(#shield)"/>
+  <path d="M89 153h78c10 0 18 8 18 18v6c0 10-8 18-18 18H89c-10 0-18-8-18-18v-6c0-10 8-18 18-18Z" fill="#20D6C7"/>
+  <path d="M101 153v-30c0-15 12-27 27-27s27 12 27 27v30" fill="none" stroke="#F4F8FB" stroke-width="12" stroke-linecap="round"/>
+  <path d="M113 91V66M143 91V66" stroke="#75D66B" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="81" cy="83" r="10" fill="#FFB547"/>
+  <circle cx="175" cy="83" r="10" fill="#FFB547"/>
+  <circle cx="128" cy="56" r="10" fill="#20D6C7"/>
+  <path d="M91 79 119 60M137 60l29 19M91 88l29 25M165 88l-29 25" fill="none" stroke="url(#signal)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M68 126c-13-13-13-34 0-47M188 79c13 13 13 34 0 47" fill="none" stroke="#9CEFE8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M52 143c-23-23-23-60 0-83M204 60c23 23 23 60 0 83" fill="none" stroke="#75D66B" stroke-width="7" stroke-linecap="round" opacity=".95"/>
+</svg>
